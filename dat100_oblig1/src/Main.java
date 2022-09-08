@@ -63,7 +63,7 @@ public class Main {
         }
     }
     public static void oppgave3(){
-        System.out.print("Skriv inn ett heltall: ");
+        System.out.print("Please type in a number: ");
         int n = read.nextInt();
         long resultat = 1;
         for(int i = 0; i < n; i++){

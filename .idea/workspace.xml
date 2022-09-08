@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae4bae36-bbf5-4c36-a047-1f239e740fc5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dat100_oblig1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat100_oblig1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dat100_oblig1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
     "node.js.detected.package.eslint": "true",
@@ -73,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662459139001</updated>
-      <workItem from="1662459140399" duration="11050000" />
+      <workItem from="1662459140399" duration="12655000" />
     </task>
     <task id="LOCAL−00001" summary="first and final commit?">
       <created>1662469330842</created>
@@ -81,7 +81,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1662469330842</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="endrett navn på fil struktur og lagde egen mappe for oblig-1 i prosjektet &quot;dat100_innleveringer&quot;">
+      <created>1662632362820</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1662632362820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +95,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first and final commit?" />
-    <option name="LAST_COMMIT_MESSAGE" value="first and final commit?" />
+    <MESSAGE value="endrett navn på fil struktur og lagde egen mappe for oblig-1 i prosjektet &quot;dat100_innleveringer&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="endrett navn på fil struktur og lagde egen mappe for oblig-1 i prosjektet &quot;dat100_innleveringer&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
