@@ -43,22 +43,24 @@ public class Main {
             System.out.printf("hello person %s. \nPlease type in your score \n", i);
             int score = read.nextInt();
 
-            if(score <= 39){
-                System.out.printf("Person %s got a F\n",i);
-            }else if(score <= 49){
-                System.out.printf("Person %s got a E\n",i);
-            }else if(score <= 59){
-                System.out.printf("Person %s got a D\n",i);
-            }else if(score <= 79){
-                System.out.printf("Person %s got a C\n",i);
-            }else if(score <= 89){
-                System.out.printf("Person %s got a B\n",i);
-            }else if(score <= 100){
-                System.out.printf("Person %s got a A\n",i);
-            }else {
-                System.out.println("Not a valid score \nTry again");
-                i--;
+            if(score >= 0 && score <= 100){
 
+                if(score <= 39){
+                    System.out.printf("Person %s got a F\n",i);
+                }else if(score <= 49){
+                    System.out.printf("Person %s got a E\n",i);
+                }else if(score <= 59){
+                    System.out.printf("Person %s got a D\n",i);
+                }else if(score <= 79){
+                    System.out.printf("Person %s got a C\n",i);
+                }else if(score <= 89){
+                    System.out.printf("Person %s got a B\n",i);
+                }else {
+                    System.out.printf("Person %s got a A\n",i);
+                }
+            } else {
+                System.out.println("not a valid score \nTry again");
+                i--;
             }
         }
     }
