@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ae4bae36-bbf5-4c36-a047-1f239e740fc5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dat100_oblig_2/dat100_oblig_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dat100_oblig_2/src/tabeller/Tabeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dat100_oblig_2/src/tabeller/TabellerEnhetsTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dat100_oblig1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dat100_oblig1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat100_innleveringer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dat100_innleveringer.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,19 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Program Files/JetBrains/IntelliJ IDEA 2022.2/lib/junit4.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -61,7 +83,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662459139001</updated>
       <workItem from="1662459140399" duration="14708000" />
-      <workItem from="1664258567368" duration="2340000" />
+      <workItem from="1664258567368" duration="11525000" />
+      <workItem from="1664277578172" duration="8147000" />
     </task>
     <task id="LOCAL−00001" summary="first and final commit?">
       <created>1662469330842</created>
@@ -81,7 +104,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1662634558302</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="skrev om oppgave 2, nå skal validering av tall mellom 0 og 100 fungere korrekt.">
+      <created>1664260999493</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1664260999493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +120,8 @@
     <MESSAGE value="first and final commit?" />
     <MESSAGE value="endrett navn på fil struktur og lagde egen mappe for oblig-1 i prosjektet &quot;dat100_innleveringer&quot;" />
     <MESSAGE value="skrev om til engelsk" />
-    <option name="LAST_COMMIT_MESSAGE" value="skrev om til engelsk" />
+    <MESSAGE value="skrev om oppgave 2, nå skal validering av tall mellom 0 og 100 fungere korrekt." />
+    <option name="LAST_COMMIT_MESSAGE" value="skrev om oppgave 2, nå skal validering av tall mellom 0 og 100 fungere korrekt." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
